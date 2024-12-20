@@ -19,8 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TestApp"
-include(":app")
-include(":app")
+rootProject.name = "ex5"
 include(":app")
  
